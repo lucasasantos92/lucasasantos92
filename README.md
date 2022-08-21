@@ -24,4 +24,4 @@ Atualemtne faço graduação em Analise e desenvovlimento de sistemas, tenho bus
 
 ## Rede Sociais
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/lucas-reis-santos)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/lucas-reis-santos)
